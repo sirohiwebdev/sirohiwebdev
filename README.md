@@ -1,16 +1,15 @@
 ### Hi there 👋
+## Abhishek Sirohi
 
 <!--
 **sirohiwebdev/sirohiwebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently debugging.
+- 🌱 I’m currently learning ReactJS, NodeJS Typescript and AWS
+- 👯 I’m looking to collaborate on an App for parking and EV charging.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Javascipt, React, Web development.
+- 📫 How to reach me: [Portfolio](http://sirohiwebdev.com), [Write a mail](mailto:sirohiwebdev@gmail.com)
+- [Instagram @sirohi.webdev](http://instagram.com/sirohi.webdev)
+- [LinkedIn](http://linkedin.com/in/sirohiwebdev)
+
