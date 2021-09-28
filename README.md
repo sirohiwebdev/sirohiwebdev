@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on an App for parking and EV charging.
 - 💬 Ask me about Javascipt, React, Web development.
 - 📫 How to reach me: [Portfolio](http://sirohiwebdev.com), [Write a mail](mailto:sirohiwebdev@gmail.com)
-- [Instagram @sirohi.webdev](http://instagram.com/sirohi.webdev)
+- [Instagram @abhisheksirohi.dev](https://www.instagram.com/abhisheksirohi.dev/)
 - [LinkedIn](http://linkedin.com/in/sirohiwebdev)
 
